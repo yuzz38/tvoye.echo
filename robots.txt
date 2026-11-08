@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Disallow: /seo/
+
+User-agent: Yandex
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term&yclid&gclid&fbclid /
+
+# AI / генеративные поисковики — разрешены (GEO)
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: YandexGPT
+Allow: /
+
+Host: https://tvoye-echo.ru
+Sitemap: https://tvoye-echo.ru/sitemap.xml

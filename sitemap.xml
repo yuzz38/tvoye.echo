@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tvoye-echo.ru/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://tvoye-echo.ru/img/look-bomber-lg.jpg</image:loc><image:title>Бомбер, футболка оверсайз и вязаные шорты — бутик ЭХО, Иркутск</image:title></image:image>
+    <image:image><image:loc>https://tvoye-echo.ru/img/shuba-belt-lg.jpg</image:loc><image:title>Эко-шуба под норку с поясом — купить в Иркутске</image:title></image:image>
+    <image:image><image:loc>https://tvoye-echo.ru/img/bryuki-brown-lg.jpg</image:loc><image:title>Утеплённые женские брюки «ёлочка»</image:title></image:image>
+    <image:image><image:loc>https://tvoye-echo.ru/img/futbolka-plate-lg.jpg</image:loc><image:title>Футболка-платье свободного кроя до 50 размера</image:title></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://tvoye-echo.ru/img/shuba-primerka-poster.jpg</video:thumbnail_loc>
+      <video:title>Эко-шуба под норку — примерка</video:title>
+      <video:description>Примерка эко-шубы под норку премиум-качества из онлайн-бутика ЭХО, Иркутск и Ангарск.</video:description>
+      <video:content_loc>https://tvoye-echo.ru/video/shuba-primerka.mp4</video:content_loc>
+      <video:duration>20</video:duration>
+    </video:video>
+  </url>
+</urlset>
